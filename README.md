@@ -12,11 +12,11 @@ Projeto feito com HTML e CSS, com foco em um layout limpo e responsivo. A propos
 - CSS  
 
 ## Estrutura
-css/
-style.css
-img/
-index.html
-README.md
+- css/
+- style.css
+- img/
+- index.html
+- README.md
 
 ## Como usar
 
