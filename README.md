@@ -1,29 +1,42 @@
-# Tecboard
+# 🚀 Tecboard
 
-Landing page simples para apresentar uma ferramenta de monitoramento em tempo real.
+Landing page desenvolvida para apresentar uma ferramenta de monitoramento em tempo real.
 
-## Sobre
+---
 
-Projeto feito com HTML e CSS, com foco em um layout limpo e responsivo. A proposta é exibir uma página inicial direta, com uma mensagem clara e um botão de ação.
+## 🌐 Acesse o projeto
 
-## Tecnologias
+https://SEU-LINK-AQUI
 
-- HTML  
-- CSS  
+---
 
-## Estrutura
-- css/
-- style.css
-- img/
-- index.html
-- README.md
+## 🖥️ Preview
 
-## Como usar
+![preview](./img/preview.png)
 
-1. Clone ou baixe o repositório  
-2. Abra o arquivo `index.html` no navegador  
+---
 
-## Observações
+## 📌 Sobre
 
-- Projeto apenas visual (sem JavaScript)  
-- Responsivo para diferentes tamanhos de tela  
+Projeto feito com HTML e CSS, com foco em um layout limpo, direto e responsivo.  
+A proposta é apresentar uma página inicial com uma mensagem clara e um botão de ação.
+
+---
+
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+
+---
+
+## 📂 Estrutura
+
+```text
+Tecboard/
+├── css/
+│   └── style.css
+├── img/
+├── Favicon-roxo.svg
+├── index.html
+└── README.md
