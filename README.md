@@ -18,15 +18,15 @@ https://SEU-LINK-AQUI
 
 ## 📌 Sobre
 
-Projeto feito com HTML e CSS, com foco em um layout limpo, direto e responsivo.  
+Projeto feito com HTML e CSS, com foco em um layout limpo, direto e responsivo.
 A proposta é apresentar uma página inicial com uma mensagem clara e um botão de ação.
 
 ---
 
 ## 🛠️ Tecnologias
 
-- HTML5
-- CSS3
+* HTML5
+* CSS3
 
 ---
 
@@ -40,3 +40,25 @@ Tecboard/
 ├── Favicon-roxo.svg
 ├── index.html
 └── README.md
+```
+
+---
+
+## ▶️ Como usar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/KaweM/Tecboard.git
+cd Tecboard
+```
+
+Abra o arquivo `index.html` no navegador.
+
+---
+
+## 📎 Observações
+
+* Projeto focado apenas no front-end (sem JavaScript)
+* Layout simples e responsivo
+* Página visual para apresentação de produto
