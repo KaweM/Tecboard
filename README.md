@@ -6,7 +6,7 @@ Landing page desenvolvida para apresentar uma ferramenta de monitoramento em tem
 
 ## 🌐 Acesse o projeto
 
-https://SEU-LINK-AQUI
+https://kawem.github.io/Tecboard/
 
 ---
 
